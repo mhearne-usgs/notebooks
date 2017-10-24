@@ -3,7 +3,7 @@
 VENV=notebooks
 PYVER=3.5
 
-DEPARRAY=(numpy scipy matplotlib jupyter xlrd xlwt pandas basemap cartopy obspy numexpr rasterio shapely h5py gdal obspy)
+DEPARRAY=(numpy scipy matplotlib jupyter xlrd xlwt pandas basemap cartopy obspy numexpr rasterio shapely h5py gdal)
 
 #turn off whatever other virtual environment user might be in
 source deactivate
