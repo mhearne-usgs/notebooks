@@ -1,0 +1,13 @@
+,id,time,location,latitude,longitude,depth,magnitude,alert,url
+0,us20009x42,2017-07-17 23:34:13.740,"202km ESE of Nikol'skoye, Russia",54.4434,168.857,10.0,7.7,green,https://earthquake.usgs.gov/earthquakes/eventpage/us20009x42
+1,us2000ahv0,2017-09-08 04:49:19.180,"101km SSW of Tres Picos, Mexico",15.0222,-93.8993,47.39,8.2,red,https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0
+2,us1000c2zy,2018-01-10 02:51:33.290,"44km E of Great Swan Island, Honduras",17.4825,-83.52,19.0,7.5,green,https://earthquake.usgs.gov/earthquakes/eventpage/us1000c2zy
+3,us2000cmy3,2018-01-23 09:31:40.890,"280km SE of Kodiak, Alaska",56.0039,-149.1658,14.06,7.9,green,https://earthquake.usgs.gov/earthquakes/eventpage/us2000cmy3
+4,us2000d7q6,2018-02-25 17:44:44.140,"83km SW of Porgera, Papua New Guinea",-6.0699,142.7536,25.21,7.5,yellow,https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6
+5,us1000gcii,2018-08-19 00:19:40.670,"286km NNE of Ndoi Island, Fiji",-18.1125,-178.153,600.0,8.2,green,https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcii
+6,us2000h9e2,2018-09-06 15:49:18.710,"102km ESE of Suva, Fiji",-18.4743,179.3502,670.81,7.9,green,https://earthquake.usgs.gov/earthquakes/eventpage/us2000h9e2
+7,us1000h3p4,2018-09-28 10:02:45.250,"70km N of Palu, Indonesia",-0.2559,119.8462,20.0,7.5,red,https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4
+8,us1000i2gt,2018-12-05 04:18:08.420,"165km ESE of Tadine, New Caledonia",-21.9496,169.4266,10.0,7.5,green,https://earthquake.usgs.gov/earthquakes/eventpage/us1000i2gt
+9,us2000jlfv,2019-02-22 10:17:23.770,"111km ESE of Palora, Ecuador",-2.1862,-77.0505,145.0,7.5,yellow,https://earthquake.usgs.gov/earthquakes/eventpage/us2000jlfv
+10,us70003kyy,2019-05-14 12:58:25.942,"46km SSE of Namatanai, Papua New Guinea",-4.0509,152.6001,10.0,7.6,green,https://earthquake.usgs.gov/earthquakes/eventpage/us70003kyy
+11,us60003sc0,2019-05-26 07:41:15.073,"78km SE of Lagunas, Peru",-5.8119,-75.2697,122.57,8.0,orange,https://earthquake.usgs.gov/earthquakes/eventpage/us60003sc0
